@@ -1,0 +1,9 @@
+{
+  "id": "quick-font-swap",
+  "name": "Quick Font Swap",
+  "version": "1.6.0",
+  "minAppVersion": "1.5.0",
+  "description": "Swap the document font with a hotkey: cycle through your fonts, pick one from a list, or click the status bar.",
+  "author": "Octa for Lila",
+  "isDesktopOnly": false
+}

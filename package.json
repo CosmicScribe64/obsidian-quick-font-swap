@@ -1,0 +1,15 @@
+{
+  "name": "quick-font-swap",
+  "version": "1.6.0",
+  "description": "Quickly swap the document font in Obsidian: cycle with a hotkey, pick from a list, or click the status bar.",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node esbuild.config.mjs",
+    "build": "node esbuild.config.mjs production"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.0",
+    "obsidian": "^1.8.7",
+    "typescript": "^5.8.0"
+  }
+}
