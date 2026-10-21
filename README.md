@@ -27,6 +27,8 @@ The first name on a line is the label the menus show. If that font is missing on
 
 Download main.js, manifest.json, and styles.css from the [latest release](https://github.com/CosmicScribe64/obsidian-quick-font-swap/releases/latest). Put them in your vault at .obsidian/plugins/quick-font-swap/, then turn the plugin on under Settings, Community plugins.
 
+Downloading this repository as a zip works too. The same three files sit at the top of it; copy them the same way.
+
 To build from source: `npm install`, then `npm run build`.
 
 ## License
